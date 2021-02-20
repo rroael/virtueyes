@@ -1,0 +1,1 @@
+Aplicativo para análise de campo visual com feedback sonoro em tempo real.
