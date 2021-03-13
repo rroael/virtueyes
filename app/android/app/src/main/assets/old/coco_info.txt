@@ -1,0 +1,80 @@
+person,172,2
+bicycle,200,3
+car,150,1
+motorbike,260,4
+aeroplane,150,5
+bus,380,6
+train,150,7
+truck,400,8
+boat,150,9
+traffic light,120,10
+fire hydrant,150,11
+stop sign,150,12
+parking meter,150,13
+bench,150,14
+bird,150,15
+cat,150,16
+dog,150,17
+horse,150,18
+sheep,150,19
+cow,150,20
+elephant,150,21
+bear,150,22
+zebra,150,23
+giraffe,150,24
+backpack,150,25
+umbrella,150,26
+handbag,150,27
+tie,150,28
+suitcase,150,29
+frisbee,150,30
+skis,150,31
+snowboard,150,32
+sports ball,150,33
+kite,150,34
+baseball bat,150,35
+baseball glove,150,36
+skateboard,150,37
+surfboard,150,38
+tennis racket,150,39
+bottle,150,40
+wine glass,150,41
+cup,150,42
+fork,150,43
+knife,150,44
+spoon,150,45
+bowl,150,46
+banana,150,47
+apple,150,48
+sandwich,150,49
+orange,150,50
+broccoli,150,51
+carrot,150,52
+hot dog,150,53
+pizza,150,54
+donut,150,55
+cake,150,56
+chair,150,57
+sofa,150,58
+potted plant,150,59
+bed,150,60
+dining table,150,61
+toilet,150,62
+tvmonitor,100,63
+laptop,50,64
+mouse,150,65
+remote,150,66
+keyboard,150,67
+cell phone,150,68
+microwave,150,69
+oven,150,70
+toaster,150,71
+sink,150,72
+refrigerator,150,73
+book,150,74
+clock,150,75
+vase,150,76
+scissors,150,77
+teddy bear,150,78
+hair drier,150,79
+toothbrush,150,80

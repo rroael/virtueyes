@@ -1,0 +1,11 @@
+person,170,7
+bicycle,200,6
+car,150,1
+motorbike,260,3
+bus,380,2
+train,400,5
+truck,400,4
+trafficlight,120,8
+bench,100,9
+tree,250,10
+fence,150,11

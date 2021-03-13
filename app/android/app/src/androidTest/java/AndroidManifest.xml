@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.tensorflow.lite.examples.detection">
+  <uses-sdk />
+  <application>
+    <activity android:name=".MainActivity"/>
+    <activity android:name=".CameraActivity"/>
+    <activity android:name=".DetectorActivity"/>
+    <activity android:name=".DetectorVideoActivity"/>
+  </application>
+</manifest>

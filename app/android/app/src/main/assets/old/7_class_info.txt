@@ -1,0 +1,7 @@
+car,150,1
+motorbike,260,2
+bus,380,3
+truck,400,4
+person,172,5
+bicycle,200,6
+traffic light,120,7

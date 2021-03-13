@@ -1,0 +1,10 @@
+person,170,4
+bicycle,200,1
+boat,1200,2
+umbrella,150,10
+frisbee,25,5
+sportsball,25,6
+kite,40,7
+surfboard,180,3
+tennisracket,60,8
+chair,100,9
